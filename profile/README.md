@@ -1,12 +1,12 @@
-Oridox
+# Oridox
 
-Building software for the real world.
+### Building software for the real world.
 
 Oridox is a software company focused on designing, building and developing digital products that solve real problems.
 
 We combine software engineering, product development and emerging technologies to create practical software for businesses and users.
 
-What we do
+## What we do
 
 Oridox focuses on developing our own software products and applications.
 
@@ -14,33 +14,33 @@ We explore opportunities across different industries and areas of technology, lo
 
 Our products are designed with usability, scalability and long-term development in mind.
 
-Our core values
+## Our core values
 
-Useful
+### Useful
 
 We focus on solving genuine problems and creating software that provides real value.
 
-Simple
+### Simple
 
 We believe powerful technology should be straightforward to understand and use.
 
-Reliable
+### Reliable
 
 Our software should be dependable, maintainable and built to last.
 
-Affordable
+### Affordable
 
 We believe good software should be accessible and provide strong value without unnecessary costs.
 
-Adaptable
+### Adaptable
 
 We build with the expectation that requirements, users and businesses will change over time.
 
-Quality
+### Quality
 
 We care about the engineering behind our software as much as the experience of the people using it.
 
-Building for the long term
+## Building for the long term
 
 Oridox is being developed with a long-term mindset.
 
@@ -54,7 +54,7 @@ Some won't.
 
 That's part of the process.
 
-Technology
+## Technology
 
 We work across a range of modern technologies and choose the tools that best fit the problems we're solving.
 
@@ -71,7 +71,7 @@ Our interests include:
 
 Our technology stack will continue to evolve alongside our products.
 
-Our direction
+## Our direction
 
 Oridox is focused on building software products that are useful, accessible and capable of providing long-term value.
 
